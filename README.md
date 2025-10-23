@@ -105,14 +105,14 @@ login.json — Stores login-related test data.
 ---
 
 ### 🧩 Features
-
+```
 ✅ API and UI test coverage
 ✅ Data-driven testing with CSV support
 ✅ Modular test organization (API / UI / Regression)
 ✅ Easy configuration via playwright.config.js
 ✅ Auto-generated Playwright HTML reports
 ✅ Scalable design for CI/CD integration
-
+```
 ---
 
 ### 📦 Dependencies
