@@ -1,0 +1,2 @@
+emaillogin,password,username,day,month,year,firstname,lastname,address1,address2,country,state,city,zipcode,phonenumber
+tester_001@mailinator.com,P@$$w0rd,tester_01,1,11,1971,test,test,test,,Canada,test,test,123456,111003223
