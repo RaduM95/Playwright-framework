@@ -8,7 +8,7 @@ It is built with a modular structure for scalability, reusability, and easy main
 ---
 
 ## 📂 Project Structure
-
+```
 PLAYWRIGHT/
 │
 ├── data/ # Test data in CSV format
@@ -53,7 +53,7 @@ PLAYWRIGHT/
 ├── package-lock.json
 ├── playwright.config.js # Global Playwright configuration
 └── README.md
-
+```
 ---
 
 ## ⚙️ Setup & Installation
